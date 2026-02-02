@@ -6,7 +6,7 @@ A streamlined machine learning project to predict fraudulent credit card transac
 The goal of this project is to build a binary classifier that distinguishes between legitimate transactions and fraudulent ones. Since fraud cases are rare (only **0.17%** of the data), this project focuses on optimizing **Precision** and **Recall** rather than simple Accuracy.
 
 ## Dataset Specifications
-* **Source:** Kaggle Credit Card Fraud Detection Dataset
+* **Source:** Kaggle Credit Card Fraud Detection Dataset (https://www.kaggle.com/datasets/waqasishtiaq/credit-card-fraud-dataset)
 * **Total Records:** 284,807
 * **Features:** `Time`, `Amount`, and 28 anonymized PCA-transformed features (`V1` – `V28`).
 * **Target:** `Class` (0: Not Fraud, 1: Fraud)
